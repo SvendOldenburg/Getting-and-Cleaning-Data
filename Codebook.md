@@ -1,4 +1,6 @@
-CODE BOOK
+# CODE BOOK
+
+## It's my first codebook (and I'm behind schedule, so be gentle
 
 This code book describes the structure and the variables of the data set "tidy_dataset_with_avg.txt", resulting from executing the "run_analysis.R" script.
 
