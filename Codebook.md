@@ -5,13 +5,16 @@ It's my first codebook (and I'm behind schedule, so be gentle.
 This code book describes the structure and the variables of the data set "tidy_dataset_with_avg.txt", resulting from executing the "run_analysis.R" script.
 
 *Raw data* 
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 *Full description* 
+
 (of the raw data) 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-*The resultat*
+*The results*
+
 The resulting data frame is composed of 180 observations (rows) and 88 variables (columns).
 There is a total of 30 observations for each subject studied. In total, 6 subjects were observed.
 
